@@ -35,8 +35,9 @@ https://yourusername.github.io/saree3-landing-page/
 ## 📂 Project Structure
 
 ```bash
-├── index.html
-└── README.md
+├── s3.html
+├── s3.css
+└── s3.js
 ```
 
 ## 👩‍💻 Author
