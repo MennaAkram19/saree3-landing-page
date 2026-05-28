@@ -29,7 +29,7 @@ Fast, modern, and visually engaging landing page for a delivery startup.
 Add your GitHub Pages link here after deployment:
 
 ```bash
-https://yourusername.github.io/saree3-landing-page/
+https://3saree3website.netlify.app/
 ```
 
 ## 📂 Project Structure
